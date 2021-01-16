@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>rejestracja_użytkownika_z_podaniem_błędnych_danych</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef0838c8-84d8-47ba-aed8-8e4fbb8530fc</testCaseGuid>
+</TestCaseEntity>
